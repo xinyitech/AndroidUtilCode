@@ -12,6 +12,8 @@ allprojects {
 ```	
 
 #步骤2 引入依赖
+```java
 dependencies {
-	        compile 'com.github.xinyitech:AndroidUtilCode:v1.1.3'
-	}
+ 	compile 'com.github.xinyitech:AndroidUtilCode:v1.1.3'
+}
+```
